@@ -130,6 +130,10 @@
                         showDiapo(conf.urlSlide+'?diapo='+Math.floor(Math.random()*conf.diapos.length));
                     }
                     */
+                    window.onload = (event) => { 
+                        console.log('La page est complètement chargée');
+                        showDiapo(confs[Math.floor(Math.random() * confs.length)].urlSlide + '?diapo=0');
+                    };
                     showDiapo(conf.urlSlide+'?diapo='+Math.floor(Math.random()*conf.diapos.length));
 
                 }
