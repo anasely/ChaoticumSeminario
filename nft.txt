@@ -1,0 +1,4 @@
+Comprendre Le Nft : 
+Le mot important c’est le mot fongibles , une chose fongible est une chose que l’on peut remplacer par une autre qui lui est similaire, par exemple l’argent est un bien fongible, un billet de 20 € peut etre remplacer par un autre billet de 20 € sans qu'il n'y ait aucune conséquence, à l'inverse un bien qui est non fongible est un bien que l'on peut pas remplacer par un autre. Par exemple une oeuvre d'art comme la monalisa dont le tableau original se situe au louvre est un bien non fongible car si on le remplacer par un autre tableau de la monalisa cet autre tableau n'est qu une copie il n a donc pas la meme valeur que le tableau original
+L'usage de L'nft:
+Il peut être utilisé pour donner de la valeur au travail des artistes et des personnes qui créent du contenu, tels que des designers qui souhaitent vendre leurs dessin numerique.
